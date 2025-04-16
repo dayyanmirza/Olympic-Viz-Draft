@@ -19,7 +19,7 @@ To view the visualisation:
 The `bump_data_decade.csv` file is the preprocessed data used in the visualization. If you want to preprocess the data yourself, the following files are included:
 
 - `preprocess.py`: A Python script that shows how the data was preprocessed.
-- `original_dataset.csv`: The original dataset used for preprocessing.
+- `olympics_dataset (1).csv`: The original dataset used for preprocessing.
 
 You can run `preprocess.py` to generate the `bump_data_decade.csv` file. Make sure you have Python installed along with the required libraries (e.g., pandas).
 
