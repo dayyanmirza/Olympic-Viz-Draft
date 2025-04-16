@@ -1,4 +1,5 @@
 import pandas as pd
+# Link to the original dataset: https://www.kaggle.com/datasets/stefanydeoliveira/summer-olympics-medals-1896-2024?resource=download
 
 df = pd.read_csv('olympics_dataset (1).csv') # load the data
 print(df.head())
