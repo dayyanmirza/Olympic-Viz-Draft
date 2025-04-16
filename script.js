@@ -5,7 +5,7 @@
 // Original author: Eric Lo
 // Inspired by: https://github.com/johnwalley/d3-bumps-chart
 // and https://roadtolarissa.com/stacked-bump/
-// Adapted and customized by Dayyan Mirza
+// Adapted and customised by Dayyan Mirza
 
 
 // set up dimensions and margins
