@@ -6,7 +6,7 @@ to avoid browser security restrictions on `file://` paths. -->
 <head>
   <meta charset="UTF-8" />
   <title>Olympic Bump Chart</title>
-  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script> <!-- src from: https://d3js.org/getting-started#d3-in-vanilla-html -->
   <style>
     body {
       font-family: sans-serif;
@@ -44,7 +44,7 @@ to avoid browser security restrictions on `file://` paths. -->
 </head>
 <body>
   <div id="tooltip"></div>
-  <h2>Olympic Team Performance (Bump Chart)</h2>
+  <h2>Olympic Team Performance Over the Last Decade (Bump Chart)</h2>
   <select id="countrySelect"></select>
   <div id="chart"></div>
   <script src="script.js"></script>
